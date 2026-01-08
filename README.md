@@ -5,6 +5,6 @@ which provides coding solution and their implemenation.
 
 2) The remaining questions which are written are in the doc file named Krishna_sai_Assessment_answers.docx
 
-3) I have also uploaded the 2 sqlite databases just to show proof of my work along with dataset .csv file named student_details.csv
+3) I have also uploaded the 2 sqlite databases just to show proof of my work along with dataset .csv file named student_marks.csv
 
 4) Thank you for this opportunity
